@@ -1,0 +1,2 @@
+96,Yaze Frost,20,IT,10000.00
+100,Arata Asterisk,26,Programming,800000.00
