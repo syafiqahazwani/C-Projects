@@ -1,4 +1,4 @@
-# C-Projects
+# C Projects
 
 Project-1-digital-clock<br>
 Project-2-digital-calendar<br>
